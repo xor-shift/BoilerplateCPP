@@ -1,0 +1,3 @@
+[submodule "Thirdparty/Common"]
+	path = Thirdparty/Common
+	url = git@github.com:xor-shift/Common.git
